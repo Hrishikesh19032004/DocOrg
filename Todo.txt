@@ -1,0 +1,12 @@
+1.File size based prefiltering for duplication detection - Reduces hashing 
+2.Logging
+3.Undo
+4.GUI
+5.Snapshot before organizing (rollback)
+6.Git-aware project detection
+7.Versioned file handling
+8.Scheduled automatic organizing
+9.Image clustering by date (events / occasions) or location or context (e.g., beach, trip, party)
+10.Event-based image folders inside Images (e.g., Images/Beach_Trip_2024)
+11.Timeline-based image grouping (same-day / multi-day events)
+12.Smart naming of image clusters
