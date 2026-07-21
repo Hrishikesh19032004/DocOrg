@@ -1,5 +1,7 @@
-1.File size based prefiltering for duplication detection - Reduces hashing 
-2.Logging
+1.File size based prefiltering for duplication detection - Reduces hashing ## Done
+2.Logging ## Done 
+
+Remaining: 
 3.Undo
 4.GUI
 5.Snapshot before organizing (rollback)

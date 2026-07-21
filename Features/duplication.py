@@ -2,6 +2,7 @@ import hashlib
 import os 
 import shutil 
 from collections import defaultdict
+from Features.logger import log_duplicate, log_error
 
 def file_hash(path, chunk_size = 8192):
     hashMD5 = hashlib.md5()
@@ -40,14 +41,25 @@ def duplication_Handle(dir):
                 file_name = os.path.basename(path)
 
                 if h in seen_hash:
-                    print(f"Moving {file_name} to duplicate folder. ")
                     base, ext = os.path.splitext(file_name)
                     new_name = file_name
                     counter = 1
                     while os.path.exists(os.path.join(duplicateFolder, new_name)):
                         new_name = f"{base}_{counter}{ext}"
                         counter+=1
-                    shutil.move(path,os.path.join(duplicateFolder,new_name))
+
+                    destination = os.path.join(duplicateFolder, new_name)
+                    try:
+                        shutil.move(path, destination)
+
+                        log_duplicate(
+                            file_name=file_name,
+                            source=path,
+                            path=destination
+                        )
+
+                    except Exception as e:
+                        log_error(file_name, path, e)
                 else:
                     seen_hash[h]=path
     
