@@ -1,98 +1,210 @@
-2026-07-22 00:04:10 | WARNING | DUPLICATE | File: App_1 |From: C:\Users\Admin\Desktop\Test\App_1 | To: C:\Users\Admin\Desktop\Test\Duplicates\App_1
-2026-07-22 00:04:10 | WARNING | DUPLICATE | File: App_2 |From: C:\Users\Admin\Desktop\Test\App_2 | To: C:\Users\Admin\Desktop\Test\Duplicates\App_2
-2026-07-22 00:04:10 | WARNING | DUPLICATE | File: App |From: C:\Users\Admin\Desktop\Test\Others\App | To: C:\Users\Admin\Desktop\Test\Duplicates\App
-2026-07-22 00:04:10 | WARNING | DUPLICATE | File: colleges_1.xlsx |From: C:\Users\Admin\Desktop\Test\colleges_1.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\colleges_1.xlsx
-2026-07-22 00:04:10 | WARNING | DUPLICATE | File: colleges_2.xlsx |From: C:\Users\Admin\Desktop\Test\colleges_2.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\colleges_2.xlsx
-2026-07-22 00:04:10 | WARNING | DUPLICATE | File: DSA timeline_1.pdf |From: C:\Users\Admin\Desktop\Test\DSA timeline_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA timeline_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA timeline_1_1.pdf |From: C:\Users\Admin\Desktop\Test\DSA timeline_1_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA timeline_1_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA timeline_1_2.pdf |From: C:\Users\Admin\Desktop\Test\DSA timeline_1_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA timeline_1_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA timeline_1_3.pdf |From: C:\Users\Admin\Desktop\Test\DSA timeline_1_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA timeline_1_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA timeline_2.pdf |From: C:\Users\Admin\Desktop\Test\DSA timeline_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA timeline_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA timeline_3.pdf |From: C:\Users\Admin\Desktop\Test\DSA timeline_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA timeline_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA Topics_1.pdf |From: C:\Users\Admin\Desktop\Test\DSA Topics_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA Topics_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA Topics_1_1.pdf |From: C:\Users\Admin\Desktop\Test\DSA Topics_1_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA Topics_1_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA Topics_1_2.pdf |From: C:\Users\Admin\Desktop\Test\DSA Topics_1_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA Topics_1_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA Topics_1_3.pdf |From: C:\Users\Admin\Desktop\Test\DSA Topics_1_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA Topics_1_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA Topics_2.pdf |From: C:\Users\Admin\Desktop\Test\DSA Topics_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA Topics_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: DSA Topics_3.pdf |From: C:\Users\Admin\Desktop\Test\DSA Topics_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\DSA Topics_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: Evaluation parameters_1.pdf |From: C:\Users\Admin\Desktop\Test\Evaluation parameters_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\Evaluation parameters_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: Evaluation parameters_1_1.pdf |From: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\Evaluation parameters_1_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: Evaluation parameters_1_2.pdf |From: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\Evaluation parameters_1_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: Evaluation parameters_1_3.pdf |From: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\Evaluation parameters_1_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: Evaluation parameters_2.pdf |From: C:\Users\Admin\Desktop\Test\Evaluation parameters_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\Evaluation parameters_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: Evaluation parameters_3.pdf |From: C:\Users\Admin\Desktop\Test\Evaluation parameters_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\Evaluation parameters_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: MS CS and DS Hrishikesh Dhuri_1.pdf |From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\MS CS and DS Hrishikesh Dhuri_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: MS CS and DS Hrishikesh Dhuri_1_1.pdf |From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\MS CS and DS Hrishikesh Dhuri_1_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: MS CS and DS Hrishikesh Dhuri_1_2.pdf |From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\MS CS and DS Hrishikesh Dhuri_1_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: MS CS and DS Hrishikesh Dhuri_1_3.pdf |From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\MS CS and DS Hrishikesh Dhuri_1_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: MS CS and DS Hrishikesh Dhuri_2.pdf |From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\MS CS and DS Hrishikesh Dhuri_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: MS CS and DS Hrishikesh Dhuri_3.pdf |From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\MS CS and DS Hrishikesh Dhuri_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: NITI_1.pdf |From: C:\Users\Admin\Desktop\Test\NITI_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\NITI_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: NITI_1_1.pdf |From: C:\Users\Admin\Desktop\Test\NITI_1_1.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\NITI_1_1.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: NITI_1_2.pdf |From: C:\Users\Admin\Desktop\Test\NITI_1_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\NITI_1_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: NITI_1_3.pdf |From: C:\Users\Admin\Desktop\Test\NITI_1_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\NITI_1_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: NITI_2.pdf |From: C:\Users\Admin\Desktop\Test\NITI_2.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\NITI_2.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: NITI_3.pdf |From: C:\Users\Admin\Desktop\Test\NITI_3.pdf | To: C:\Users\Admin\Desktop\Test\Duplicates\NITI_3.pdf
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: ReferencesBreastC_1.xlsx |From: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\ReferencesBreastC_1.xlsx
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: ReferencesBreastC_1_1.xlsx |From: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_1.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\ReferencesBreastC_1_1.xlsx
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: ReferencesBreastC_1_2.xlsx |From: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_2.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\ReferencesBreastC_1_2.xlsx
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: ReferencesBreastC_1_3.xlsx |From: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_3.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\ReferencesBreastC_1_3.xlsx
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: ReferencesBreastC_2.xlsx |From: C:\Users\Admin\Desktop\Test\ReferencesBreastC_2.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\ReferencesBreastC_2.xlsx
-2026-07-22 00:04:11 | WARNING | DUPLICATE | File: ReferencesBreastC_3.xlsx |From: C:\Users\Admin\Desktop\Test\ReferencesBreastC_3.xlsx | To: C:\Users\Admin\Desktop\Test\Duplicates\ReferencesBreastC_3.xlsx
-2026-07-22 00:04:11 | INFO | MOVED | File: App.css | Category: Code | From: C:\Users\Admin\Desktop\Test\App.css | To: C:\Users\Admin\Desktop\Test\Code\App.css
-2026-07-22 00:04:11 | INFO | MOVED | File: App.js | Category: Code | From: C:\Users\Admin\Desktop\Test\App.js | To: C:\Users\Admin\Desktop\Test\Code\App.js
-2026-07-22 00:04:11 | INFO | MOVED | File: App.test.js | Category: Code | From: C:\Users\Admin\Desktop\Test\App.test.js | To: C:\Users\Admin\Desktop\Test\Code\App.test.js
-2026-07-22 00:04:11 | INFO | MOVED | File: Array1.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Array1.cpp | To: C:\Users\Admin\Desktop\Test\Code\Array1.cpp
-2026-07-22 00:04:11 | INFO | MOVED | File: colleges.xlsx | Category: Documents | From: C:\Users\Admin\Desktop\Test\colleges.xlsx | To: C:\Users\Admin\Desktop\Test\Documents\colleges.xlsx
-2026-07-22 00:04:11 | INFO | MOVED | File: community_detector.py | Category: Code | From: C:\Users\Admin\Desktop\Test\community_detector.py | To: C:\Users\Admin\Desktop\Test\Code\community_detector.py
-2026-07-22 00:04:11 | INFO | MOVED | File: DSA timeline.pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\DSA timeline.pdf | To: C:\Users\Admin\Desktop\Test\Documents\DSA timeline.pdf
-2026-07-22 00:04:11 | INFO | MOVED | File: DSA Topics.pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\DSA Topics.pdf | To: C:\Users\Admin\Desktop\Test\Documents\DSA Topics.pdf
-2026-07-22 00:04:11 | INFO | MOVED | File: entity_extractor.py | Category: Code | From: C:\Users\Admin\Desktop\Test\entity_extractor.py | To: C:\Users\Admin\Desktop\Test\Code\entity_extractor.py
-2026-07-22 00:04:11 | INFO | MOVED | File: Evaluation parameters.pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\Evaluation parameters.pdf | To: C:\Users\Admin\Desktop\Test\Documents\Evaluation parameters.pdf
-2026-07-22 00:04:11 | INFO | MOVED | File: graph_builder.py | Category: Code | From: C:\Users\Admin\Desktop\Test\graph_builder.py | To: C:\Users\Admin\Desktop\Test\Code\graph_builder.py
-2026-07-22 00:04:11 | INFO | MOVED | File: index.css | Category: Code | From: C:\Users\Admin\Desktop\Test\index.css | To: C:\Users\Admin\Desktop\Test\Code\index.css
-2026-07-22 00:04:11 | INFO | MOVED | File: index.js | Category: Code | From: C:\Users\Admin\Desktop\Test\index.js | To: C:\Users\Admin\Desktop\Test\Code\index.js
-2026-07-22 00:04:11 | INFO | MOVED | File: Islands.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Islands.cpp | To: C:\Users\Admin\Desktop\Test\Code\Islands.cpp
-2026-07-22 00:04:11 | INFO | MOVED | File: logo.svg | Category: Images | From: C:\Users\Admin\Desktop\Test\logo.svg | To: C:\Users\Admin\Desktop\Test\Images\logo.svg
-2026-07-22 00:04:11 | INFO | MOVED | File: MaximumSubarrayLength.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\MaximumSubarrayLength.cpp | To: C:\Users\Admin\Desktop\Test\Code\MaximumSubarrayLength.cpp
-2026-07-22 00:04:11 | INFO | MOVED | File: MS CS and DS Hrishikesh Dhuri.pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri.pdf | To: C:\Users\Admin\Desktop\Test\Documents\MS CS and DS Hrishikesh Dhuri.pdf
-2026-07-22 00:04:11 | INFO | MOVED | File: NetworkRecovery.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\NetworkRecovery.cpp | To: C:\Users\Admin\Desktop\Test\Code\NetworkRecovery.cpp
-2026-07-22 00:04:11 | INFO | MOVED | File: NITI.pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\NITI.pdf | To: C:\Users\Admin\Desktop\Test\Documents\NITI.pdf
-2026-07-22 00:04:11 | INFO | MOVED | File: ProcessString.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\ProcessString.cpp | To: C:\Users\Admin\Desktop\Test\Code\ProcessString.cpp
-2026-07-22 00:04:11 | INFO | MOVED | File: ReferencesBreastC.xlsx | Category: Documents | From: C:\Users\Admin\Desktop\Test\ReferencesBreastC.xlsx | To: C:\Users\Admin\Desktop\Test\Documents\ReferencesBreastC.xlsx
-2026-07-22 00:04:11 | INFO | MOVED | File: reportWebVitals.js | Category: Code | From: C:\Users\Admin\Desktop\Test\reportWebVitals.js | To: C:\Users\Admin\Desktop\Test\Code\reportWebVitals.js
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (498).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (498).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (498).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (499).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (499).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (499).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (501).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (501).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (501).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (502).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (502).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (502).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (504).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (504).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (504).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (505).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (505).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (505).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (507).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (507).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (507).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (508).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (508).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (508).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (510).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (510).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (510).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (511).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (511).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (511).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (513).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (513).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (513).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (514).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (514).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (514).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (516).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (516).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (516).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (517).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (517).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (517).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (519).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (519).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (519).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (520).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (520).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (520).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (522).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (522).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (522).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (523).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (523).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (523).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (525).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (525).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (525).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (526).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (526).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (526).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (528).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (528).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (528).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (529).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (529).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (529).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (531).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (531).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (531).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (532).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (532).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (532).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (534).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (534).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (534).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (535).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (535).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (535).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (537).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (537).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (537).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (538).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (538).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (538).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (540).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (540).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (540).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (541).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (541).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (541).png
-2026-07-22 00:04:11 | INFO | MOVED | File: Screenshot (543).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (543).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (543).png
-2026-07-22 00:04:11 | INFO | MOVED | File: semantic_chunker.py | Category: Code | From: C:\Users\Admin\Desktop\Test\semantic_chunker.py | To: C:\Users\Admin\Desktop\Test\Code\semantic_chunker.py
-2026-07-22 00:04:11 | INFO | MOVED | File: setupTests.js | Category: Code | From: C:\Users\Admin\Desktop\Test\setupTests.js | To: C:\Users\Admin\Desktop\Test\Code\setupTests.js
-2026-07-22 00:04:11 | INFO | MOVED | File: summarizer.py | Category: Code | From: C:\Users\Admin\Desktop\Test\summarizer.py | To: C:\Users\Admin\Desktop\Test\Code\summarizer.py
-2026-07-22 00:04:11 | INFO | MOVED | File: Union.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Union.cpp | To: C:\Users\Admin\Desktop\Test\Code\Union.cpp
+2026-07-22 22:13:18 | ERROR | ERROR | File: App.css | Location: C:\Users\Admin\Desktop\Test\App.css | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: App_1 | Location: C:\Users\Admin\Desktop\Test\App_1 | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: App_2 | Location: C:\Users\Admin\Desktop\Test\App_2 | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: colleges.xlsx | Location: C:\Users\Admin\Desktop\Test\colleges.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: colleges_1.xlsx | Location: C:\Users\Admin\Desktop\Test\colleges_1.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: colleges_2.xlsx | Location: C:\Users\Admin\Desktop\Test\colleges_2.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA timeline.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA timeline_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA timeline_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA timeline_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA timeline_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA timeline_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA timeline_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA Topics.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA Topics_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA Topics_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA Topics_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA Topics_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA Topics_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: DSA Topics_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: Evaluation parameters.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: Evaluation parameters_1.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: Evaluation parameters_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: Evaluation parameters_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: Evaluation parameters_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: Evaluation parameters_2.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: Evaluation parameters_3.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_2.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_3.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: NITI.pdf | Location: C:\Users\Admin\Desktop\Test\NITI.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: NITI_1.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: NITI_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: NITI_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: NITI_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: NITI_2.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: NITI_3.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: ReferencesBreastC.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: ReferencesBreastC_1.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: ReferencesBreastC_1_1.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_1.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: ReferencesBreastC_1_2.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_2.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: ReferencesBreastC_1_3.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_3.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: ReferencesBreastC_2.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_2.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | ERROR | ERROR | File: ReferencesBreastC_3.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_3.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:18 | INFO | MOVED | File: App | Category: Others | From: C:\Users\Admin\Desktop\Test\App | To: C:\Users\Admin\Desktop\Test\Others\App
+2026-07-22 22:13:18 | INFO | MOVED | File: App.js | Category: Code | From: C:\Users\Admin\Desktop\Test\App.js | To: C:\Users\Admin\Desktop\Test\Code\App.js
+2026-07-22 22:13:18 | INFO | MOVED | File: App.test.js | Category: Code | From: C:\Users\Admin\Desktop\Test\App.test.js | To: C:\Users\Admin\Desktop\Test\Code\App.test.js
+2026-07-22 22:13:18 | INFO | MOVED | File: Array1.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Array1.cpp | To: C:\Users\Admin\Desktop\Test\Code\Array1.cpp
+2026-07-22 22:13:18 | INFO | MOVED | File: colleges (2).xlsx | Category: Documents | From: C:\Users\Admin\Desktop\Test\colleges (2).xlsx | To: C:\Users\Admin\Desktop\Test\Documents\colleges (2).xlsx
+2026-07-22 22:13:18 | INFO | MOVED | File: community_detector.py | Category: Code | From: C:\Users\Admin\Desktop\Test\community_detector.py | To: C:\Users\Admin\Desktop\Test\Code\community_detector.py
+2026-07-22 22:13:18 | INFO | MOVED | File: DSA timeline (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\DSA timeline (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\DSA timeline (2).pdf
+2026-07-22 22:13:18 | INFO | MOVED | File: DSA Topics (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\DSA Topics (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\DSA Topics (2).pdf
+2026-07-22 22:13:18 | INFO | MOVED | File: entity_extractor.py | Category: Code | From: C:\Users\Admin\Desktop\Test\entity_extractor.py | To: C:\Users\Admin\Desktop\Test\Code\entity_extractor.py
+2026-07-22 22:13:18 | INFO | MOVED | File: Evaluation parameters (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\Evaluation parameters (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\Evaluation parameters (2).pdf
+2026-07-22 22:13:18 | INFO | MOVED | File: graph_builder.py | Category: Code | From: C:\Users\Admin\Desktop\Test\graph_builder.py | To: C:\Users\Admin\Desktop\Test\Code\graph_builder.py
+2026-07-22 22:13:18 | INFO | MOVED | File: index.css | Category: Code | From: C:\Users\Admin\Desktop\Test\index.css | To: C:\Users\Admin\Desktop\Test\Code\index.css
+2026-07-22 22:13:18 | INFO | MOVED | File: index.js | Category: Code | From: C:\Users\Admin\Desktop\Test\index.js | To: C:\Users\Admin\Desktop\Test\Code\index.js
+2026-07-22 22:13:18 | INFO | MOVED | File: Islands.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Islands.cpp | To: C:\Users\Admin\Desktop\Test\Code\Islands.cpp
+2026-07-22 22:13:18 | INFO | MOVED | File: logo.svg | Category: Images | From: C:\Users\Admin\Desktop\Test\logo.svg | To: C:\Users\Admin\Desktop\Test\Images\logo.svg
+2026-07-22 22:13:18 | INFO | MOVED | File: MaximumSubarrayLength.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\MaximumSubarrayLength.cpp | To: C:\Users\Admin\Desktop\Test\Code\MaximumSubarrayLength.cpp
+2026-07-22 22:13:18 | INFO | MOVED | File: MS CS and DS Hrishikesh Dhuri (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\MS CS and DS Hrishikesh Dhuri (2).pdf
+2026-07-22 22:13:18 | INFO | MOVED | File: NetworkRecovery.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\NetworkRecovery.cpp | To: C:\Users\Admin\Desktop\Test\Code\NetworkRecovery.cpp
+2026-07-22 22:13:18 | INFO | MOVED | File: NITI (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\NITI (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\NITI (2).pdf
+2026-07-22 22:13:18 | INFO | MOVED | File: ProcessString.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\ProcessString.cpp | To: C:\Users\Admin\Desktop\Test\Code\ProcessString.cpp
+2026-07-22 22:13:18 | INFO | MOVED | File: ReferencesBreastC (2).xlsx | Category: Documents | From: C:\Users\Admin\Desktop\Test\ReferencesBreastC (2).xlsx | To: C:\Users\Admin\Desktop\Test\Documents\ReferencesBreastC (2).xlsx
+2026-07-22 22:13:18 | INFO | MOVED | File: reportWebVitals.js | Category: Code | From: C:\Users\Admin\Desktop\Test\reportWebVitals.js | To: C:\Users\Admin\Desktop\Test\Code\reportWebVitals.js
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (498).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (498).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (498).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (499).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (499).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (499).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (501).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (501).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (501).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (502).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (502).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (502).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (504).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (504).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (504).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (505).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (505).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (505).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (507).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (507).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (507).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (508).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (508).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (508).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (510).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (510).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (510).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (511).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (511).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (511).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (513).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (513).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (513).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (514).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (514).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (514).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (516).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (516).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (516).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (517).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (517).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (517).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (519).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (519).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (519).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (520).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (520).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (520).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (522).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (522).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (522).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (523).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (523).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (523).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (525).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (525).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (525).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (526).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (526).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (526).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (528).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (528).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (528).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (529).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (529).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (529).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (531).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (531).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (531).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (532).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (532).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (532).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (534).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (534).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (534).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (535).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (535).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (535).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (537).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (537).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (537).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (538).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (538).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (538).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (540).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (540).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (540).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (541).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (541).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (541).png
+2026-07-22 22:13:18 | INFO | MOVED | File: Screenshot (543).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (543).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (543).png
+2026-07-22 22:13:18 | INFO | MOVED | File: semantic_chunker.py | Category: Code | From: C:\Users\Admin\Desktop\Test\semantic_chunker.py | To: C:\Users\Admin\Desktop\Test\Code\semantic_chunker.py
+2026-07-22 22:13:18 | INFO | MOVED | File: setupTests.js | Category: Code | From: C:\Users\Admin\Desktop\Test\setupTests.js | To: C:\Users\Admin\Desktop\Test\Code\setupTests.js
+2026-07-22 22:13:18 | INFO | MOVED | File: summarizer.py | Category: Code | From: C:\Users\Admin\Desktop\Test\summarizer.py | To: C:\Users\Admin\Desktop\Test\Code\summarizer.py
+2026-07-22 22:13:18 | INFO | MOVED | File: Union.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Union.cpp | To: C:\Users\Admin\Desktop\Test\Code\Union.cpp
+2026-07-22 22:13:48 | ERROR | ERROR | File: App.css | Location: C:\Users\Admin\Desktop\Test\App.css | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: App_1 | Location: C:\Users\Admin\Desktop\Test\App_1 | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: App_2 | Location: C:\Users\Admin\Desktop\Test\App_2 | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: colleges.xlsx | Location: C:\Users\Admin\Desktop\Test\colleges.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: colleges_1.xlsx | Location: C:\Users\Admin\Desktop\Test\colleges_1.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: colleges_2.xlsx | Location: C:\Users\Admin\Desktop\Test\colleges_2.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA timeline.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA timeline_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA timeline_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA timeline_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA timeline_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA timeline_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA timeline_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA timeline_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA Topics.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA Topics_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA Topics_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA Topics_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA Topics_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA Topics_2.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: DSA Topics_3.pdf | Location: C:\Users\Admin\Desktop\Test\DSA Topics_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: Evaluation parameters.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: Evaluation parameters_1.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: Evaluation parameters_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: Evaluation parameters_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: Evaluation parameters_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: Evaluation parameters_2.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: Evaluation parameters_3.pdf | Location: C:\Users\Admin\Desktop\Test\Evaluation parameters_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_2.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: MS CS and DS Hrishikesh Dhuri_3.pdf | Location: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: NITI.pdf | Location: C:\Users\Admin\Desktop\Test\NITI.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: NITI_1.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: NITI_1_1.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1_1.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: NITI_1_2.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: NITI_1_3.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_1_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: NITI_2.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_2.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: NITI_3.pdf | Location: C:\Users\Admin\Desktop\Test\NITI_3.pdf | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: ReferencesBreastC.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: ReferencesBreastC_1.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: ReferencesBreastC_1_1.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_1.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: ReferencesBreastC_1_2.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_2.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: ReferencesBreastC_1_3.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_1_3.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: ReferencesBreastC_2.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_2.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | ERROR | ERROR | File: ReferencesBreastC_3.xlsx | Location: C:\Users\Admin\Desktop\Test\ReferencesBreastC_3.xlsx | Reason: log_duplicate() got an unexpected keyword argument 'destination'
+2026-07-22 22:13:48 | INFO | MOVED | File: App | Category: Others | From: C:\Users\Admin\Desktop\Test\App | To: C:\Users\Admin\Desktop\Test\Others\App
+2026-07-22 22:13:48 | INFO | MOVED | File: App.js | Category: Code | From: C:\Users\Admin\Desktop\Test\App.js | To: C:\Users\Admin\Desktop\Test\Code\App.js
+2026-07-22 22:13:48 | INFO | MOVED | File: App.test.js | Category: Code | From: C:\Users\Admin\Desktop\Test\App.test.js | To: C:\Users\Admin\Desktop\Test\Code\App.test.js
+2026-07-22 22:13:48 | INFO | MOVED | File: Array1.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Array1.cpp | To: C:\Users\Admin\Desktop\Test\Code\Array1.cpp
+2026-07-22 22:13:48 | INFO | MOVED | File: colleges (2).xlsx | Category: Documents | From: C:\Users\Admin\Desktop\Test\colleges (2).xlsx | To: C:\Users\Admin\Desktop\Test\Documents\colleges (2).xlsx
+2026-07-22 22:13:48 | INFO | MOVED | File: community_detector.py | Category: Code | From: C:\Users\Admin\Desktop\Test\community_detector.py | To: C:\Users\Admin\Desktop\Test\Code\community_detector.py
+2026-07-22 22:13:48 | INFO | MOVED | File: DSA timeline (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\DSA timeline (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\DSA timeline (2).pdf
+2026-07-22 22:13:48 | INFO | MOVED | File: DSA Topics (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\DSA Topics (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\DSA Topics (2).pdf
+2026-07-22 22:13:48 | INFO | MOVED | File: entity_extractor.py | Category: Code | From: C:\Users\Admin\Desktop\Test\entity_extractor.py | To: C:\Users\Admin\Desktop\Test\Code\entity_extractor.py
+2026-07-22 22:13:48 | INFO | MOVED | File: Evaluation parameters (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\Evaluation parameters (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\Evaluation parameters (2).pdf
+2026-07-22 22:13:48 | INFO | MOVED | File: graph_builder.py | Category: Code | From: C:\Users\Admin\Desktop\Test\graph_builder.py | To: C:\Users\Admin\Desktop\Test\Code\graph_builder.py
+2026-07-22 22:13:48 | INFO | MOVED | File: index.css | Category: Code | From: C:\Users\Admin\Desktop\Test\index.css | To: C:\Users\Admin\Desktop\Test\Code\index.css
+2026-07-22 22:13:48 | INFO | MOVED | File: index.js | Category: Code | From: C:\Users\Admin\Desktop\Test\index.js | To: C:\Users\Admin\Desktop\Test\Code\index.js
+2026-07-22 22:13:48 | INFO | MOVED | File: Islands.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Islands.cpp | To: C:\Users\Admin\Desktop\Test\Code\Islands.cpp
+2026-07-22 22:13:48 | INFO | MOVED | File: logo.svg | Category: Images | From: C:\Users\Admin\Desktop\Test\logo.svg | To: C:\Users\Admin\Desktop\Test\Images\logo.svg
+2026-07-22 22:13:48 | INFO | MOVED | File: MaximumSubarrayLength.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\MaximumSubarrayLength.cpp | To: C:\Users\Admin\Desktop\Test\Code\MaximumSubarrayLength.cpp
+2026-07-22 22:13:48 | INFO | MOVED | File: MS CS and DS Hrishikesh Dhuri (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\MS CS and DS Hrishikesh Dhuri (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\MS CS and DS Hrishikesh Dhuri (2).pdf
+2026-07-22 22:13:48 | INFO | MOVED | File: NetworkRecovery.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\NetworkRecovery.cpp | To: C:\Users\Admin\Desktop\Test\Code\NetworkRecovery.cpp
+2026-07-22 22:13:48 | INFO | MOVED | File: NITI (2).pdf | Category: Documents | From: C:\Users\Admin\Desktop\Test\NITI (2).pdf | To: C:\Users\Admin\Desktop\Test\Documents\NITI (2).pdf
+2026-07-22 22:13:48 | INFO | MOVED | File: ProcessString.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\ProcessString.cpp | To: C:\Users\Admin\Desktop\Test\Code\ProcessString.cpp
+2026-07-22 22:13:48 | INFO | MOVED | File: ReferencesBreastC (2).xlsx | Category: Documents | From: C:\Users\Admin\Desktop\Test\ReferencesBreastC (2).xlsx | To: C:\Users\Admin\Desktop\Test\Documents\ReferencesBreastC (2).xlsx
+2026-07-22 22:13:48 | INFO | MOVED | File: reportWebVitals.js | Category: Code | From: C:\Users\Admin\Desktop\Test\reportWebVitals.js | To: C:\Users\Admin\Desktop\Test\Code\reportWebVitals.js
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (498).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (498).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (498).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (499).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (499).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (499).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (501).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (501).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (501).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (502).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (502).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (502).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (504).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (504).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (504).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (505).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (505).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (505).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (507).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (507).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (507).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (508).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (508).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (508).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (510).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (510).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (510).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (511).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (511).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (511).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (513).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (513).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (513).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (514).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (514).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (514).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (516).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (516).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (516).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (517).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (517).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (517).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (519).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (519).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (519).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (520).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (520).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (520).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (522).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (522).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (522).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (523).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (523).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (523).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (525).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (525).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (525).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (526).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (526).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (526).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (528).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (528).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (528).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (529).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (529).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (529).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (531).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (531).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (531).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (532).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (532).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (532).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (534).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (534).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (534).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (535).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (535).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (535).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (537).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (537).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (537).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (538).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (538).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (538).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (540).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (540).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (540).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (541).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (541).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (541).png
+2026-07-22 22:13:48 | INFO | MOVED | File: Screenshot (543).png | Category: Images | From: C:\Users\Admin\Desktop\Test\Screenshot (543).png | To: C:\Users\Admin\Desktop\Test\Images\Screenshot (543).png
+2026-07-22 22:13:48 | INFO | MOVED | File: semantic_chunker.py | Category: Code | From: C:\Users\Admin\Desktop\Test\semantic_chunker.py | To: C:\Users\Admin\Desktop\Test\Code\semantic_chunker.py
+2026-07-22 22:13:48 | INFO | MOVED | File: setupTests.js | Category: Code | From: C:\Users\Admin\Desktop\Test\setupTests.js | To: C:\Users\Admin\Desktop\Test\Code\setupTests.js
+2026-07-22 22:13:48 | INFO | MOVED | File: summarizer.py | Category: Code | From: C:\Users\Admin\Desktop\Test\summarizer.py | To: C:\Users\Admin\Desktop\Test\Code\summarizer.py
+2026-07-22 22:13:48 | INFO | MOVED | File: Union.cpp | Category: Code | From: C:\Users\Admin\Desktop\Test\Union.cpp | To: C:\Users\Admin\Desktop\Test\Code\Union.cpp

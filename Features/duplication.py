@@ -15,7 +15,7 @@ def file_hash(path, chunk_size = 8192):
         return hashMD5.hexdigest()
 
 
-def duplication_Handle(dir):
+def duplication_Handle(dir, snapshot):
     
     duplicateFolder = os.path.join(dir,"Duplicates")
     os.makedirs(duplicateFolder, exist_ok=True)
@@ -52,10 +52,16 @@ def duplication_Handle(dir):
                     try:
                         shutil.move(path, destination)
 
+                        snapshot.add_operation(
+                            source=path,
+                            destination=destination,
+                            operation_type="duplicate"
+                        )
+
                         log_duplicate(
                             file_name=file_name,
                             source=path,
-                            path=destination
+                            destination=destination
                         )
 
                     except Exception as e:

@@ -1,0 +1,530 @@
+{
+    "timestamp": "2026-07-22_22-13-48",
+    "operations": [
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\App.css",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\App.css"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\App_1",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\App_1"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\App_2",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\App_2"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\colleges.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\colleges.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\colleges_1.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\colleges_1.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\colleges_2.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\colleges_2.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA timeline.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA timeline_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline_1_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA timeline_1_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline_1_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA timeline_1_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline_1_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA timeline_1_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA timeline_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA timeline_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA Topics.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA Topics_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics_1_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA Topics_1_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics_1_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA Topics_1_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics_1_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA Topics_1_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA Topics_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\DSA Topics_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\Evaluation parameters.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\Evaluation parameters_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters_1_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\Evaluation parameters_1_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters_1_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\Evaluation parameters_1_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters_1_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\Evaluation parameters_1_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\Evaluation parameters_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\Evaluation parameters_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\MS CS and DS Hrishikesh Dhuri.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\MS CS and DS Hrishikesh Dhuri_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri_1_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\MS CS and DS Hrishikesh Dhuri_1_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri_1_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\MS CS and DS Hrishikesh Dhuri_1_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri_1_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\MS CS and DS Hrishikesh Dhuri_1_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\MS CS and DS Hrishikesh Dhuri_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\MS CS and DS Hrishikesh Dhuri_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\NITI.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\NITI_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI_1_1.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\NITI_1_1.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI_1_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\NITI_1_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI_1_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\NITI_1_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI_2.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\NITI_2.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI_3.pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\NITI_3.pdf"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\ReferencesBreastC.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC_1.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\ReferencesBreastC_1.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC_1_1.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\ReferencesBreastC_1_1.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC_1_2.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\ReferencesBreastC_1_2.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC_1_3.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\ReferencesBreastC_1_3.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC_2.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\ReferencesBreastC_2.xlsx"
+        },
+        {
+            "type": "duplicate",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC_3.xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Duplicates\\ReferencesBreastC_3.xlsx"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\App",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Others\\App"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\App.js",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\App.js"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\App.test.js",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\App.test.js"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Array1.cpp",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\Array1.cpp"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\colleges (2).xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Documents\\colleges (2).xlsx"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\community_detector.py",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\community_detector.py"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA timeline (2).pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Documents\\DSA timeline (2).pdf"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\DSA Topics (2).pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Documents\\DSA Topics (2).pdf"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\entity_extractor.py",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\entity_extractor.py"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Evaluation parameters (2).pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Documents\\Evaluation parameters (2).pdf"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\graph_builder.py",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\graph_builder.py"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\index.css",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\index.css"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\index.js",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\index.js"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Islands.cpp",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\Islands.cpp"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\logo.svg",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\logo.svg"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MaximumSubarrayLength.cpp",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\MaximumSubarrayLength.cpp"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\MS CS and DS Hrishikesh Dhuri (2).pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Documents\\MS CS and DS Hrishikesh Dhuri (2).pdf"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NetworkRecovery.cpp",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\NetworkRecovery.cpp"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\NITI (2).pdf",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Documents\\NITI (2).pdf"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ProcessString.cpp",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\ProcessString.cpp"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\ReferencesBreastC (2).xlsx",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Documents\\ReferencesBreastC (2).xlsx"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\reportWebVitals.js",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\reportWebVitals.js"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (498).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (498).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (499).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (499).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (501).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (501).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (502).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (502).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (504).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (504).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (505).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (505).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (507).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (507).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (508).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (508).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (510).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (510).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (511).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (511).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (513).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (513).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (514).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (514).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (516).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (516).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (517).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (517).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (519).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (519).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (520).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (520).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (522).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (522).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (523).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (523).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (525).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (525).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (526).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (526).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (528).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (528).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (529).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (529).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (531).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (531).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (532).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (532).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (534).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (534).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (535).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (535).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (537).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (537).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (538).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (538).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (540).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (540).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (541).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (541).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Screenshot (543).png",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Images\\Screenshot (543).png"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\semantic_chunker.py",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\semantic_chunker.py"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\setupTests.js",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\setupTests.js"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\summarizer.py",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\summarizer.py"
+        },
+        {
+            "type": "category",
+            "source": "C:\\Users\\Admin\\Desktop\\Test\\Union.cpp",
+            "destination": "C:\\Users\\Admin\\Desktop\\Test\\Code\\Union.cpp"
+        }
+    ]
+}
